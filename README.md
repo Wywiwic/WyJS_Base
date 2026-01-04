@@ -40,4 +40,4 @@ A mininal skeleton for a javascript demo, game, application which need full scre
   - A simple SHIFUMI game -> https://www.wywiwic.com/releases/shifumi/index.php
   
 
-  ![WyJS_Base](https://www.wywiwic.com/github/wysdl3_minimal/wysdl3_minimal.png)
+  ![WyJS_Base](https://www.wywiwic.com/github/wyjs_base/wyjs_base.png)
