@@ -21,7 +21,7 @@ A mininal skeleton for a javascript demo, game, application which need full scre
     - drawCenteredDiagonals()
     - drawMessageTopLeft
     - drawMessageBottomRight
-  - Console can be manage by using the booleans
+  - Logs in console can be manage by switching the booleans
     - debug -> basic debug
     - debugXY -> print the coordinates on events
 
