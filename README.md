@@ -32,8 +32,8 @@ A mininal skeleton for a javascript demo, game, application which need full scre
 ## Example
   - 2D Starfield -> https://www.wywiwic.com/releases/2d_starfield/index.html
   
-  - 3D vertex sphere -> https://www.wywiwic.com/releases/3d_vertex_sphere/index.html
-  - C64 typing text -> https://www.wywiwic.com/releases/
+  - 3D Vertex sphere -> https://www.wywiwic.com/releases/3d_vertex_sphere/index.html
+  - C64 Typing text -> https://www.wywiwic.com/releases/
 
   - 2D Radial gradient generator -> https://www.wywiwic.com/releases/2d_radialgradient/index.html
 
