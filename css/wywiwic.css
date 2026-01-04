@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+.body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	background-color: #000000;
+	background-image: none;
+	background-repeat: no-repeat;
+	border: thin none #000000;
+	margin: 0px;
+	padding: 0px;
+}
+
+@font-face {
+  font-family: "saira-stencil-one";
+
+  src: url(../fonts/saira-stencil-one.woff2) format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "C64_Pro_Mono-STYLE";
+
+  src: url(../fonts/C64_Pro_Mono-STYLE.woff2) format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
